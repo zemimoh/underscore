@@ -1,3 +1,7 @@
+/*!
+ * extend underscore library.
+ * Author: ZEMMOURI Mohamed <zemimoh@gmail.com>
+ */
 _.mixin({
     groupByMulti: function (obj, values, context) {
         if (!values.length)
